@@ -9,7 +9,7 @@ I'm a developer who enjoys building software, learning new technologies, and con
 
 ## About Me
 
-- I write code in languages like Python, Java, and JavaScript.
+- I write code in languages like Python, java and the Scripting Languages.
 - I work with frameworks such as Spring Boot, Eclipse.
 - I enjoy solving problems and developing web applications.
 
@@ -17,15 +17,16 @@ I'm a developer who enjoys building software, learning new technologies, and con
 
 Here are a few types of repositories you might find on my profile:
 
-- Web development projects
-- Data structures and algorithms
-- Backend APIs
-- Tools and utilities
+- AI based projects
+- Java projects with servlets
+- Java & Python Programs
+- Other Tools and utilities
 
 ## Contact
 
-If you'd like to connect or collaborate, feel free to reach out:
+If you'd like to connect , feel free to reach out:
 
 - Email: richard7231mark@gmail.com
+- LinkedIn: https://www.linkedin.com/in/-richardmark-
 
 Thanks again for stopping by.
